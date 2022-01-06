@@ -72,8 +72,10 @@ const BMIWidget = (props: any) => {
           {renderGaugeSeperator()}
           <div className="gauge_track">
             <div>
-              <h2>{!score ? "Enter your details" : score}</h2>
-              <h4>{bmiResult}</h4>
+              <h2 data-testid="bmiScore">
+                {!score ? "Enter your details" : score}
+              </h2>
+              <h4 data-testid="bmiResult">{bmiResult}</h4>
             </div>
           </div>
         </div>

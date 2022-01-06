@@ -8,6 +8,7 @@ Dependencies installation
 ` npm i`
 
 Start the project
+
 `npm start`
 
 Note:By default the project will be hosted on port 3000.
