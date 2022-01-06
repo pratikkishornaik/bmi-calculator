@@ -12,3 +12,9 @@ Start the project
 `npm start`
 
 Note:By default the project will be hosted on port 3000.
+
+## App Screenshots
+
+![form](https://user-images.githubusercontent.com/46700925/148326457-2f86e885-28b9-43af-aa90-c51fa9623a6c.png)
+
+![gauage](https://user-images.githubusercontent.com/46700925/148326696-21bd93e9-9335-4bc4-8746-394e8693188a.png)
