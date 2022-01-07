@@ -13,6 +13,10 @@ Start the project
 
 Note:By default the project will be hosted on port 3000.
 
+Run test cases
+
+`npm test`
+
 ## App Screenshots
 
 ![form](https://user-images.githubusercontent.com/46700925/148326457-2f86e885-28b9-43af-aa90-c51fa9623a6c.png)
