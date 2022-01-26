@@ -17,6 +17,10 @@ Run test cases
 
 `npm test`
 
+## Live Demo
+[Demo Link] (https://pratikkishornaik.github.io/)
+
+
 ## App Screenshots
 
 ![form](https://user-images.githubusercontent.com/46700925/148326457-2f86e885-28b9-43af-aa90-c51fa9623a6c.png)
