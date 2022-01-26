@@ -18,7 +18,9 @@ Run test cases
 `npm test`
 
 ## Live Demo
-[Demo Link] (https://pratikkishornaik.github.io/)
+
+[Demo Link](https://pratikkishornaik.github.io/)
+
 
 
 ## App Screenshots
